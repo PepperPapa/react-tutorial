@@ -1,37 +1,4 @@
 [
-    {
-        "text": "dd",
-        "id": 1471344113019,
-        "author": "zx"
-    },
-    {
-        "text": "dd",
-        "id": 1471344116115,
-        "author": "dd"
-    },
-    {
-        "text": "go",
-        "id": 1471344118873,
-        "author": "zx"
-    },
-    {
-        "text": "fuck",
-        "id": 1471344154220,
-        "author": "jj"
-    },
-    {
-        "text": "dsdsa",
-        "id": 1471344160743,
-        "author": "dd"
-    },
-    {
-        "text": "# go",
-        "id": 1471344167925,
-        "author": "zx"
-    },
-    {
-        "text": "1.2222 ; 2. dssd",
-        "id": 1471344179359,
-        "author": "zx"
-    }
+  {"id": "1", "author": "Pete Hunt", "text": "This is one comment"},
+  {"id": "2", "author": "Jordan Walke", "text": "This is *another* comment"}
 ]
