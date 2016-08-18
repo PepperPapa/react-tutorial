@@ -1,8 +1,8 @@
 /*
  * - CommentBox
  *   - CommentList
-*      - Comment
-*    - CommentForm
+ *     - Comment
+ *   - CommentForm
  */
 
 var CommentBox = React.createClass({
@@ -111,7 +111,7 @@ var CommentForm = React.createClass({
   render: function() {
     return (
       <form className="commentForm" onSubmit={this.handleSubmit}>
-	     <input
+        <input
         type="text"
         placeholder="Your name"
         value={this.state.author}
